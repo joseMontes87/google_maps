@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_alert">AlertActivity</string>
+
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="parar_actualizaciones">Parar actualizaciones</string>
+    <string name="iniciar_actualizaciones">Iniciar actualizaciones</string>
+</resources>
